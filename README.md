@@ -1,4 +1,3 @@
-# Ize
 _Coming soon_
 
 The human brain isn't cut out for the accelerating fragmentation, information, and change of modern life.  This is especially true for modern online work. While early humans could once count on a stable set of collaborators, tools, and information, modern collaboration is orders of magnitude more complex. Online work is fragmented across:
