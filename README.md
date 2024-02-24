@@ -39,7 +39,7 @@ The simplicity and clarity of requests are a critical component for solving the 
 
 Ize is about how we pool our collective attention to get shit done. Pooling our collective attention in the modern era requires bridging different online tools, groups, and identities into coherent workflows. The purpose of Ize is to offload this cognitive load of managing these workflows to software, so that collaboration can once again feel connected , purposeful, and nourishing.
 
-~~~
+...
 
 If this sounds interesting to you - whether you're a builder, activist, investor, whatever - we'd love to hear from you.
 
