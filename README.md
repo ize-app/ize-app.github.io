@@ -8,7 +8,7 @@ The human brain isn't cut out for the accelerating fragmentation, information, a
 
 In the same way that the human brain has not kept pace with the accelerating pace of modern life, neither have our tools. Online tools often implicitly assume that we work in rigidly-defined, hierarchical teams that are roughly online at the same time and completing most of any given workflow on their tool. 
 
-The result of this mismatch between our tools and the reality of modern online work is ineffectiveness and burnt out.  Contributors are confused about how they can contribute and what decisions have been made. Leaders are overwhelmed, drowning in a sea of notifications and bottlenecking their teams. We try to define processes to wrangle in the chaos, but it is fragile and quickly forgotten.
+The result of this mismatch between our tools and the reality of modern online work is ineffectivness and burnout.  Contributors are confused about how they can contribute and what decisions have been made. Leaders are overwhelmed, drowning in a sea of notifications and bottlenecking their teams. We try to define processes to wrangle in the chaos, but it is fragile and quickly forgotten.
 
 ## Introducing Ize 👀
 _The collective action platform_
@@ -35,7 +35,7 @@ The simplicity and clarity of requests are a critical component for solving the 
 - _Meaningful_ in how responses are used towards some larger objective.
 - _Relevant_ because requests are made to specific groups/people and are filtered out if they’ve already expired (e.g. a decision has already been made).
 
-**<u>Everything</u>** in Ize happens through workflows and requests. For example, There is no “admin” concept in Ize. Instead, there are workflows that define how another workflow can evolve over time. Yup, it's workflows _all the way down_ 🐢. 
+**<u>Everything</u>** in Ize happens through workflows and requests. For example, There is no “admin” concept in Ize. Instead, there are workflows that define how another workflow can evolve over time. It's workflows _all the way down_ 🐢. 
 
 This means that that the flow of power in Ize is both fully transparent and evolveable. For example, a workflow might start off as a benevolent dictatorship, evolve into an optimistic governance process, then ultimately hand decisions over to an LLM. Ize isn't pushing any particular idealogy - we're just creating the rails for you to implement whatever works for you. With these rails, you can easily implement and iterate on forms of collective governance and intelligence that would otherwise be impractical.
 
