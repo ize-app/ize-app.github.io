@@ -37,7 +37,9 @@ The simplicity and clarity of requests are a critical component for solving the 
 
 <u>**Everything**</u> in Ize happens through workflows and requests. For example, there is no “admin” with the sole ability to change how a workflow works. Instead, there are workflows that define how another workflow can evolve over time. 
 
-Ize is about how we pool our collective attention to get shit done. Pooling our collective attention in the modern era requires bridging different online tools, groups, and identities into coherent workflows. The purpose of Ize is to offload this cognitive load of managing these workflows to software, so that collaboration can once again feel connected , purposeful, and nourishing.
+Ize is a new category of tool but here are a couple different ways to think about what it. It's like a DAO tool (Snapshot, DAOHaus), but with task-specific, highly flexible subDAOs. It's like an automation tool (Zapier, Pipedream), but for collaborative workflows rather than purely automated workflows. It like a decision/brainstorming tool (Loomio, Retrium), but cross-platform and with automatic execution of decisions.
+
+Ize is ultimately about how we pool our collective attention to get shit done. Pooling our collective attention in the modern era requires bridging different online tools, groups, and identities into coherent workflows. The purpose of Ize is to offload this cognitive load of managing these workflows to software, so that collaboration can once again feel connected , purposeful, and nourishing.
 
 ...
 
