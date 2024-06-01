@@ -41,7 +41,7 @@ This means that that the flow of power in Ize is both fully transparent and evol
 
 Ize is a new category of tool but here are a couple different ways to think about what it. It's like a DAO tool (Snapshot, DAOHaus), but with task-specific, highly-flexible, evolutionary subDAOs. It's like an automation tool (Zapier, Pipedream), but for collaborative workflows rather than purely automated workflows. It like a decision/brainstorming tool (Loomio, Retrium), but cross-platform and with automatic execution of decisions.
 
-Ize is ultimately about how we pool our collective attention to get shit done. Pooling our collective attention in the modern era requires bridging different online tools, groups, and identities into coherent workflows. The purpose of Ize is to offload this cognitive load of managing these workflows to software, so that collaboration can once again feel connected , purposeful, and nourishing.
+Ize is ultimately about how we pool our collective attention to get shit done. Pooling our collective attention in the modern era requires bridging different online tools, groups, and identities into coherent workflows. The purpose of Ize is to offload this cognitive load to software, so that collaboration can once again feel connected, purposeful, and nourishing.
 
 ...
 
